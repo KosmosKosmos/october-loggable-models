@@ -6,7 +6,7 @@
 	 * Time: 15:15
 	 */
 
-	namespace Loggable;
+	namespace KosmosKosmos\Loggable;
 
 
 	use Backend\Facades\BackendAuth;
